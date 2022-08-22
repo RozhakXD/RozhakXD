@@ -1,5 +1,7 @@
 <h2> Hey There! I'm Rozhak. <img src="https://github.com/RozhakXD/RozhakXD/blob/main/giphy.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://github.com/RozhakXD/RozhakXD/blob/main/giphy.gif" width="100%" <br>/>
+<img align="right" alt="GIF" src="https://github.com/RozhakXD/RozhakXD/blob/main/giphy.gif" width="100%"/>
+
+<hr>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=RozhakXD&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rozhak's Github Stats">
 
