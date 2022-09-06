@@ -1,12 +1,9 @@
 <h2> Hey There! I'm Rozhak.</h2>
 
-```python
-from rich.console import Console
-
-Console = Console(style="bold red")
-console.print("Hello World!")
-exit()
-```
+<div align="center">
+  <img align="center" src="https://github.com/RozhakXD/RozhakXD/raw/main/wallpaperflare.com_wallpaper.jpg">
+</div>
+<br/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=RozhakXD&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rozhak's Github Stats">
 
