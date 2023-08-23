@@ -1,7 +1,5 @@
 # Hey There! I'm [Rozhak](https://www.youtube.com/c/rozhakid) 👋
 
-<p>I love the Python Programming Language.</p>
-
 <div align="center">
   <img align="center" src="https://github.com/RozhakXD/RozhakXD/raw/main/Python3.png">
 </div>
