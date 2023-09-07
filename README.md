@@ -15,7 +15,7 @@ I'm a software developer with a focus on the Python programming language. Here, 
 - Key Features: This script has very perfect features equipped with the best methods.
 - Demo: You can see my project on [https://github.com/RozhakXD/Premium](https://github.com/RozhakXD/Premium).
 
-### Project 2: SOSMED AUTO FOLLOWERS
+### Project 2: SOCIAL MEDIA AUTO FOLLOWERS
 - Description: This is a collection of scripts to get various likes, followers, comments on our social media accounts.
 - Technologies Used: Python.
 - Key Features: The main feature of this script is to get a lot of followers.
