@@ -1,7 +1,7 @@
 # Hey There! I'm [Rozhak](https://www.youtube.com/c/rozhakid) 👋
 
 <div align="center">
-  <img align="center" src="https://github.com/RozhakXD/RozhakXD/assets/65714340/fac13e2e-c761-4d3c-a770-cb9eb47ddc0d">
+  <img align="center" src="https://github.com/RozhakXD/RozhakXD/assets/65714340/bf2c51a6-e570-4d64-af86-1a574e83b267">
 </div>
 
 ## Introduction
