@@ -18,10 +18,10 @@ I'm a passionate developer with expertise in various programming languages and t
 
 Feel free to reach out if you want to collaborate on projects, discuss technology, or just chat!
 
-[![Instagram Badge](https://img.shields.io/badge/-rozhak_official-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/rozhak_official)](https://www.instagram.com/rozhak_official)
-[![Facebook Badge](https://img.shields.io/badge/-rozhak.xyz-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/rozhak.xyz)](https://www.facebook.com/rozhak.xyz)
-[![Twitter Badge](https://img.shields.io/badge/-rozhak_official-black?style=flat-square&logo=x&logoColor=white&link=https://x.com/rozhak_official)]([https://twitter.com/rozhak_official](https://x.com/rozhak_official))
-[![WhatsApp Badge](https://img.shields.io/badge/-08384792xxxx-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/6283847921480)](https://wa.me/6283847921480)
-[![Threads Badge](https://img.shields.io/badge/-rozhak_official-black?style=flat-square&logo=threads&logoColor=white&link=https://www.threads.net/@rozhak_official)](https://www.threads.net/@rozhak_official)
-[![Buy Me a Coffee Badge](https://img.shields.io/badge/-rozhak_official-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black&link=https://trakteer.id/rozhak_official/tip)](https://trakteer.id/rozhak_official/tip)
-[![Youtube Badge](https://img.shields.io/badge/-rozhakid-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/rozhakid)](https://www.youtube.com/c/rozhakid)
+[![Instagram](https://img.icons8.com/?size=50&id=Xy10Jcu1L2Su&format=png&color=000000)](https://www.instagram.com/rozhak_official)
+[![Facebook](https://img.icons8.com/?size=50&id=118497&format=png&color=000000)](https://www.facebook.com/rozhak.xyz)
+[![Twitter](https://img.icons8.com/?size=50&id=phOKFKYpe00C&format=png&color=000000)](https://x.com/rozhak_official)
+[![WhatsApp](https://img.icons8.com/?size=50&id=16713&format=png&color=000000)](https://wa.me/6283847921480)
+[![Threads](https://img.icons8.com/?size=50&id=oykyblY20T6o&format=png&color=000000)](https://www.threads.net/@rozhak_official)
+[![Buy Me a Coffee](https://img.icons8.com/?size=50&id=gEtADbEGxPM2&format=png&color=000000)](https://trakteer.id/rozhak_official/tip)
+[![YouTube](https://img.icons8.com/?size=50&id=19318&format=png&color=000000)](https://www.youtube.com/c/rozhakid)
