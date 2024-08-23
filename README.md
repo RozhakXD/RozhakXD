@@ -18,7 +18,7 @@ I'm a passionate developer with expertise in various programming languages and t
 
 Feel free to reach out if you want to collaborate on projects, discuss technology, or just chat!
 
-[![Instagram](https://img.icons8.com/?size=50&id=Xy10Jcu1L2Su&format=png&color=000000)](https://www.instagram.com/rozhak_official)
-[![WhatsApp](https://img.icons8.com/?size=50&id=16713&format=png&color=000000)](https://wa.me/6283847921480)
-[![YouTube](https://img.icons8.com/?size=50&id=19318&format=png&color=000000)](https://www.youtube.com/c/rozhakid)
-[![Telegram](https://img.icons8.com/?size=50&id=63306&format=png&color=000000)](https://t.me/rozhak_official)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/rozhak_official)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-%23232D25?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/6283847921480)
+[![YouTube](https://img.shields.io/badge/-YouTube-%23FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/c/rozhakid)
+[![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=telegram&logoColor=white)](https://t.me/rozhak_official)
