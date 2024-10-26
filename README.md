@@ -9,6 +9,7 @@ I'm a passionate developer with expertise in various programming languages and t
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Golang](https://img.shields.io/badge/-Golang-blue?style=flat-square&logo=go)
 
 ## 🌟 GitHub Streak
 
@@ -21,4 +22,3 @@ Feel free to reach out if you want to collaborate on projects, discuss technolog
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/rozhak_official)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-%23232D25?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/6283847921480)
 [![YouTube](https://img.shields.io/badge/-YouTube-%23FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/c/rozhakid)
-[![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=telegram&logoColor=white)](https://t.me/rozhak_official)
