@@ -13,7 +13,7 @@ I'm a passionate developer with expertise in various programming languages and t
 
 ## 🌟 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RozhakXD)
+![GitHub Streak](https://streak-stats.demolab.com/?user=RozhakXD)
 
 ## 🌐 Connect with Me
 
