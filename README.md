@@ -11,11 +11,16 @@ I'm a passionate developer with expertise in various programming languages and t
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Golang](https://img.shields.io/badge/-Golang-blue?style=flat-square&logo=go)
 
-## 🌟 GitHub Streak
+## 📊 GitHub Stats 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RozhakXD&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=RozhakXD)
+## 🌐 Top Languages 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RozhakXD&layout=compact&theme=vue-dark&hide_border=true&card_width=450)](https://github.com/RozhakXD)
 
-## 🌐 Connect with Me
+## 🔥 Coding Streak 
+![Stargazers Streak](https://github-readme-streak-stats.herokuapp.com/?user=RozhakXD&theme=holi-theme&background=0D1117&hide_border=true&stroke=FF79C6)
+
+## 🤝 Let's Connect 
 
 Feel free to reach out if you want to collaborate on projects, discuss technology, or just chat!
 
